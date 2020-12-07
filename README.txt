@@ -1,0 +1,1 @@
+Aprendizado de Máquina na Prática by [CICA](https://cica.arapiraca.ufal.br/) e [Edge](https://edgebr.org/). 
